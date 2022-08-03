@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Luana Specht 👋
 
 - 🔭 Hoje trabalho com Front-End
-- 🌱 Estou estudando Node.js, React e Python
+- 🌱 Estou estudando React e Node.js
 - 😄 Pronomes: Ela/Dela
 
 ##
