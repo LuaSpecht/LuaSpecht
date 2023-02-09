@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Luana Specht 👋
 
 - 🔭 Estudante de Front-End
-- 🌱 2° Semestre em ADS
-- 🚀 Estudando TypeScript e ReactJS
+- 🌱 3° Semestre em ADS
+- 🚀 Estudando ReactJS e TypeScript
 - 😄 Pronomes: Ela/Dela
 
 ##
