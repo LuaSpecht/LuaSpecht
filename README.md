@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Luana Specht 👋
 
 - 🔭 Estudante de Front-End
-- 🌱 4° Semestre em ADS
+- 🌱 5° Semestre em ADS
 - 🚀 Estudando ReactJS e TypeScript
 - 😄 Pronomes: Ela/Dela
 
