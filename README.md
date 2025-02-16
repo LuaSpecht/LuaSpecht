@@ -5,7 +5,7 @@
 
 - 🌱 No momento estou aprendendo **ReactJS, TypeScript, MySQL, Design e UX**
 
-- 👯 Sou administradora e colaboradora da [comunidade Mulheres & Tecnologia]([https://chat.whatsapp.com/D2koZEA7Pz23sEMBIwJA6T](https://linktr.ee/mulheresetecnologia))
+- 👯 Sou administradora e colaboradora da [omunidade Mulheres & Tecnologia]([https://chat.whatsapp.com/D2koZEA7Pz23sEMBIwJA6T](https://linktr.ee/mulheresetecnologia)
 
 - 📫 Você me encontra pelo **spechtdeveloper@gmail.com**
 
